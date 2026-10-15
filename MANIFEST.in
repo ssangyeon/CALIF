@@ -1,0 +1,5 @@
+include README.md LICENSE Notice.txt UPSTREAM.md requirements-calif.txt
+recursive-include configs *.json
+recursive-include scripts *.sh
+recursive-include tests *.py
+recursive-include calif_training *.json

@@ -1,0 +1,48 @@
+{
+  "repo_id": "sangyon/CALIF",
+  "revision": "2e95d53865a2bf623478067b35a2f88a561acf8f",
+  "dataset_id": "allenai/IF_multi_constraints_upto5",
+  "dataset_revision": "2e3a77407b7fce69f95b248d64a884e3ae1c2423",
+  "settings": {
+    "qwen3_1_7b_nonthink": {
+      "filename": "anchors/qwen3_1_7b_nonthink.json",
+      "base_model": "Qwen/Qwen3-1.7B",
+      "base_model_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+      "size_bytes": 678854566,
+      "sha256": "6986d0a58222f35d9b223f7b54f4e668b859251c326d623c3235e1b12d9af47c",
+      "entry_count": 93881
+    },
+    "qwen3_1_7b_think": {
+      "filename": "anchors/qwen3_1_7b_think.json",
+      "base_model": "Qwen/Qwen3-1.7B",
+      "base_model_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+      "size_bytes": 673108966,
+      "sha256": "d9da3b0d58d2a668d0a0dd1771fcdea2472894fda594ccd4ef110fe65ff65cbc",
+      "entry_count": 93882
+    },
+    "qwen3_4b_nonthink": {
+      "filename": "anchors/qwen3_4b_nonthink.json",
+      "base_model": "Qwen/Qwen3-4B",
+      "base_model_revision": "1cfa9a7208912126459214e8b04321603b3df60c",
+      "size_bytes": 541011703,
+      "sha256": "81c5756b7022e27d932efa10b0835d6f589dfe5b35a6b1b32a5a89942c5db6a6",
+      "entry_count": 93881
+    },
+    "qwen3_4b_think": {
+      "filename": "anchors/qwen3_4b_think.json",
+      "base_model": "Qwen/Qwen3-4B",
+      "base_model_revision": "1cfa9a7208912126459214e8b04321603b3df60c",
+      "size_bytes": 615906541,
+      "sha256": "373b6adfb5c54c7d1f1ae7871ee18101a355f7f25fccbf5228c0d36a6726c2f7",
+      "entry_count": 93882
+    },
+    "tulu3_8b_dpo": {
+      "filename": "anchors/tulu3_8b_dpo.json",
+      "base_model": "allenai/Llama-3.1-Tulu-3-8B-DPO",
+      "base_model_revision": "a7beb67e33ffd01cc87ac3b46cadc1000985b8db",
+      "size_bytes": 547761089,
+      "sha256": "77939ac294ed83fc51b9f5bd504492b686e9f6c6effca9feb398ca7d08d97698",
+      "entry_count": 93993
+    }
+  }
+}

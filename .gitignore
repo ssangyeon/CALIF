@@ -1,0 +1,27 @@
+# Authentication, environments, generated artifacts
+.env
+.env.*
+!.env.example
+*_key
+*.pem
+*.key
+/.venv/
+/.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+/build/
+/dist/
+/data/
+/checkpoints/
+/outputs/
+/logs/
+/wandb/
+/models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+.DS_Store
+._*
